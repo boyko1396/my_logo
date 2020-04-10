@@ -1,0 +1,10 @@
+// variables
+$accent_color: #709C8A;
+$accent_dark_color: #57857C;
+$second_color: #3B3954;
+$font_family: 'Nunito', Tahoma, sans-serif;
+
+// library
+@import 'node_modules/bootstrap/scss/functions';
+@import 'node_modules/bootstrap/scss/variables';
+@import 'node_modules/bootstrap/scss/mixins/_breakpoints.scss'; // Bootstrap Breakpoints mixin
